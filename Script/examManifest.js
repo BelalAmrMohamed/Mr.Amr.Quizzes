@@ -3,33 +3,33 @@
 
 export const examList = [
   {
-    "id": "Quiz 1",
-    "category": "Programming 2",
-    "title": "Quiz 1",
-    "path": "../Exams/Programming 2/Quiz 1.js"
+    "id": "DIET AND HEALTH",
+    "category": "English",
+    "title": "DIET AND HEALTH",
+    "path": "../Exams/English/DIET AND HEALTH.js"
   },
   {
-    "id": "Quiz 2",
-    "category": "Programming 2",
-    "title": "Quiz 2",
-    "path": "../Exams/Programming 2/Quiz 2.js"
+    "id": "PROFESSIONAL LIFE",
+    "category": "English",
+    "title": "PROFESSIONAL LIFE",
+    "path": "../Exams/English/PROFESSIONAL LIFE.js"
   },
   {
-    "id": "Quiz 3",
-    "category": "Programming 2",
-    "title": "Quiz 3",
-    "path": "../Exams/Programming 2/Quiz 3.js"
+    "id": "SHARED LIVING",
+    "category": "English",
+    "title": "SHARED LIVING",
+    "path": "../Exams/English/SHARED LIVING.js"
   },
   {
-    "id": "Quiz 4",
-    "category": "Programming 2",
-    "title": "Quiz 4",
-    "path": "../Exams/Programming 2/Quiz 4.js"
+    "id": "TECHNOLOGY",
+    "category": "English",
+    "title": "TECHNOLOGY",
+    "path": "../Exams/English/TECHNOLOGY.js"
   },
   {
-    "id": "Quiz 5",
-    "category": "Programming 2",
-    "title": "Quiz 5",
-    "path": "../Exams/Programming 2/Quiz 5.js"
+    "id": "WEATHER AND HEALTH",
+    "category": "English",
+    "title": "WEATHER AND HEALTH",
+    "path": "../Exams/English/WEATHER AND HEALTH.js"
   }
 ];
